@@ -15,7 +15,7 @@ Analyze a suspected phishing email sample to identify technical and social-engin
 - **Tools:** MXToolbox (Email Header Analyzer), a text editor, web browser  
 - **Files included in this repo:**  
   - `sample-1.eml` — original email file (raw)  
-  - `header_analysis.txt` — MXToolbox output / header transcription  
+  - `header_analysis.pdf` — MXToolbox output / header transcription  
   - `screenshots/` — MXToolbox screenshots and hovered-link screenshots  
   - `README.md` — this file
 
@@ -88,17 +88,26 @@ For domain owners / administrators (if you control the domain):
 
 ├── sample-1.eml
 
-├── header_analysis.txt
+├── header_analysis.pdf
 
 └── screenshots/
 
 ├── mxtoolbox-delivery.png
 
+├── relay-info1.png
+
+├── relay-info2.png
+
 ├── mxtoolbox-spf-dkim.png
 
-├── mxtoolbox-headers.png
+├── mxtoolbox-headers1.png
 
-└── hovered-link.png
+├── mxtoolbox-headers2.png
+
+├── mxtoolbox-headers3.png
+
+├── mxtoolbox-headers4.png
+
 
 
 ---
